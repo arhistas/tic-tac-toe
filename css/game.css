@@ -1,0 +1,27 @@
+#game-box  input {
+    border: 0;
+    font-size: 5em;
+    height: 100%;
+    width: 100%;
+	background-color: transparent;
+}
+
+#game-box  input.X {
+    color: red;
+}
+
+#game-box  input.O {
+    color: green;
+}
+
+#game-box .col {
+	padding: 0px;
+}
+
+span#name.X {
+    color: red;
+}
+
+span#name.O {
+    color: green;
+}
